@@ -1,9 +1,6 @@
-
-
 public class ArrayUtil {
-	
-	public static boolean reverse(int[] array,
-			int start) {
+
+    public static boolean reverse(int[] array, int start) {
 		
 		if (array == null) {
 			return false;
